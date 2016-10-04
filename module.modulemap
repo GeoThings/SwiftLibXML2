@@ -1,0 +1,5 @@
+module LibXML2 {
+  header "/usr/include/libxml2/libxml/xpath.h"
+  link "xml2"
+  export *
+}
